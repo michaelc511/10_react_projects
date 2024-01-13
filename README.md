@@ -3,10 +3,14 @@
 10 Projects
   1. Git: https://github.com/huxn-webdev
   2. Vid: https://www.youtube.com/watch?v=XrwsMN2IWnE
+  3. Blog:
+  4. Solutions in App.jsx or in README.md
 
-# React Playlist 
+React Playlist 
   1. Git: In source file 
   2. Vid: https://youtube.com/playlist?list=PLLRUcDuffY1EzxcM_r_0nXLGaWsNWYOmE&si=m34y7MpHML_TFoOd
+  3. Blog:
+  4. Solutions in App.jsx or in README.md
 
 # React + Vite
 
