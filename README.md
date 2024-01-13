@@ -1,7 +1,7 @@
 # React Mini Projects
 
 # 10 Projects
-  \tGit: https://github.com/huxn-webdev
+  >Git: https://github.com/huxn-webdev
   \tVid: https://www.youtube.com/watch?v=XrwsMN2IWnE
 
 # React Playlist 
