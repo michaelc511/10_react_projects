@@ -1,6 +1,6 @@
 # React Mini Projects
 
-# 10 Projects
+10 Projects
   1. Git: https://github.com/huxn-webdev
   2. Vid: https://www.youtube.com/watch?v=XrwsMN2IWnE
 
