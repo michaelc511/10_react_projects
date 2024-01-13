@@ -32,11 +32,12 @@ function App() {
 export default App
 
 /*
-1. gc_1_q 
-2. Q&A App 
-3. Repo: https://github.com/graceaveris/React.js_Question_and_Answer_App.js
-4. Video: https://www.youtube.com/watch?v=Vi9G9i-bEQ8&list=PLLRUcDuffY1EzxcM_r_0nXLGaWsNWYOmE&index=30 
-5. Desc: 
+ 
+// 1. Q&A App - Branch gc_1_q Q&A App 
+  1. Git: https://github.com/graceaveris/React.js_Question_and_Answer_App.js
+  2. Video: https://www.youtube.com/watch?v=Vi9G9i-bEQ8&list=PLLRUcDuffY1EzxcM_r_0nXLGaWsNWYOmE&index=30 
+  3. Blog Article 
+  4. Solution
   Created a Q&A app. 
   In the App.jsx with the 'question' and 'answer' as the states
   We have a function using => as const revelAnswer with 'event' as the param. 
