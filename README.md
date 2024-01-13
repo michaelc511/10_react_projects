@@ -6,8 +6,8 @@
   3. Blog:
   4. Solutions in App.jsx or in README.md
 
-React Playlist - Branches gc_#_desc
-  1. Git: In source file 
+React Playlist - Branch gc_1_q   
+  1. Git: In source file, https://github.com/graceaveris/
   2. Vid: https://youtube.com/playlist?list=PLLRUcDuffY1EzxcM_r_0nXLGaWsNWYOmE&si=m34y7MpHML_TFoOd
   3. Blog:
   4. Solutions in App.jsx or in README.md
