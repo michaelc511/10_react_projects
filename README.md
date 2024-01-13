@@ -2,11 +2,11 @@
 
 # 10 Projects
   >Git: https://github.com/huxn-webdev
-  \tVid: https://www.youtube.com/watch?v=XrwsMN2IWnE
+  >tVid: https://www.youtube.com/watch?v=XrwsMN2IWnE
 
 # React Playlist 
-  \tGit: In source file 
-  \tVid: https://youtube.com/playlist?list=PLLRUcDuffY1EzxcM_r_0nXLGaWsNWYOmE&si=m34y7MpHML_TFoOd
+  >Git: In source file 
+  >Vid: https://youtube.com/playlist?list=PLLRUcDuffY1EzxcM_r_0nXLGaWsNWYOmE&si=m34y7MpHML_TFoOd
 
 # React + Vite
 
