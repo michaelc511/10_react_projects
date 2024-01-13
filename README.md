@@ -1,7 +1,7 @@
 # React Mini Projects
 
 10 Projects
-  1. Git: https://github.com/huxn-webdev
+  1. Git: https://github.com/HuXn-WebDev/React-With-10-Projects/tree/main/3.%20Projects
   2. Vid: https://www.youtube.com/watch?v=XrwsMN2IWnE
   3. Blog:
   4. Solutions in App.jsx or in README.md
