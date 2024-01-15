@@ -8,7 +8,9 @@ function App() {
 
   return (
     <>
-   
+      <header className="App-Header">
+        <h1>App</h1>
+      </header>
     </>
   )
 }
@@ -16,9 +18,9 @@ function App() {
 export default App
 /*
 // Branch #_desc 
-  1. Git repo
-  2. Video
-  3. Blog Article 
-  4. Solution
+  1. Git repo:
+  2. Video:
+  3. Blog Article: 
+  4. Solution:
 
 */
