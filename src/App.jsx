@@ -9,7 +9,7 @@ function App() {
 
   const colorCreator = () => Math.floor(Math.random() * 250) + 1;
 
-  const updateColorHandler = (event) => {
+  const updateColorHandler = (event) => { // 'event' is optional for this case
     setColor1(colorCreator);
     setColor2(colorCreator);
     setColor3(colorCreator);
