@@ -1,4 +1,4 @@
-const Question = ({ click, question }) => {
+const Question = ({ revealAnswer, question }) => {
   const style = {
     border: '4px solid white',
     textAlign: 'center',
@@ -7,7 +7,7 @@ const Question = ({ click, question }) => {
 
   return (
     <div
-      onClick={click}
+      onClick={revealAnswer}
       style={style}>
       <p>{question}</p>
     </div>

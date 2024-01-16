@@ -8,6 +8,7 @@ function App() {
   const [question, setQuestion] = useState('What is USA?');
   const [answer, setAnswer] = useState('A country.');
 
+  // event is optional in this case 
   const revealAnswer = (event) => {
     setQuestion(answer);
   }
@@ -22,7 +23,7 @@ function App() {
         </header>
         <Question 
           question={question} 
-          click={revealAnswer} 
+          revealAnswer={revealAnswer} 
           />
       </div>
     </>
